@@ -1,0 +1,136 @@
+.automat {
+	border: 5px solid #d2cea1;
+	margin: 40px 20px 0;
+	width: 400px;
+}
+.page {
+	width: 270px;
+	margin: 50px auto 0;
+	border: 1px solid black;
+}
+#display {
+	height: 70px;
+	width: 400px;
+	background-color: #c35516;
+	text-align: center;
+	font: bold 18px Georgia, sans-serif;
+	color: #fff;
+	padding-top: 20px;
+}
+#sp {
+	font: bold 14px Tahoma, sans-serif;
+	text-transform: uppercase;
+}
+#suggar {
+	margin-bottom: 8px;
+}
+#suggar span {
+	color: #8c2d01;
+	margin: 0 52px 0 100px;
+}
+.choise {
+	border: 2px solid #d2cea1;
+	color: #c2943e;
+	font:bold 14px Tahoma, sans-serif;
+}
+option {
+	width: 135px;
+	margin: 5px 2px 15px 15px;
+}
+.wrapp-content.cf {
+	width: 370px;
+	background: linear-gradient(to top, #842b01, #f0621f);
+	padding: 0 0 0 30px;
+}	
+.content {
+	float: left;
+	background-color: #e4ca7d;
+	width: 175px;
+}
+.menu {
+	margin: 0 10px 15px 10px;
+	background-color: #efdb9e;
+	width: 105px;
+	height: 35px;
+	font: bold 16px Tahoma, sans-serif;
+	padding: 5px 40px 45px 0;	
+}
+.menu:first-child {
+	margin-top: 5px;
+}
+.menu-item:nth-child(3) {
+	font: 12px Tahoma, sans-serif;
+	font-weight:900;
+}
+.menu-item:nth-child(4) {
+	font: 12px Tahoma, sans-serif;
+	font-weight:900;
+}
+.menu-item {
+	text-align: right;
+	color: #8c2d01;
+	font-weight:900;
+	min-height: 15px;
+	position: relative;
+}
+.menu-item span{
+    font: bolder 24px Tahoma,sans-serif;
+    position: absolute;
+    top: -15px;
+    right: -35px;
+}
+.aside {
+	float: right;
+}
+.range input {
+	width: 70px;
+	height: 70px;
+	background-color: #efdb9e;
+	border: 5px solid #d2cea1;
+	border-radius: 50%;
+	margin: 0 60px 15px 0;
+	cursor: pointer;
+}
+.range input:first-child {
+	margin-top: 15px;
+} 
+#money input {
+	width: 394px;
+	color: #c2943e;
+    font: bold 14px Tahoma,sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
